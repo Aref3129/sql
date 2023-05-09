@@ -1,0 +1,26 @@
+  <html>
+<head>
+   <title>  SQL Server آمورش نصب  </title>
+
+</head>
+
+ <body> 
+ 
+<body background="untitled2.jpg">
+<br><center><b>.تنظیمات پیش فرض را قبول کنیدServer configuratin و instance configuration در صفحه</center></b><br><br>
+<center><img src="image (4).png" wedight=200 height=300></center><br><br><br>
+<center><img src="image (5).png" wedight=200 height=300></center><br><br>
+<center><b>.کلیک کنید Add current user را انتخاب کنید و برای ادمین نرم افزار یک رمز تعیین کنید رمز را در جایی یادداشت کنید که فراموش نشود و بعد روی گزینه Mixed mode در صفحه بعد گزینه
+</center></b><br><br>
+<center><img src="image (6).png" wedight=200 height=300></center><br><br>
+<center><b>فرایند نصب آغاز میشود Install در صفحه بعد می توانید لیستی از تمام بخش هایی که قرار است نصب شود مشاهده کنید با کلیک بر روی گزینه </center></b><br><br>
+<center><img src="image (7).png" wedight=200 height=300></center><br><br>
+<center><b>!فرآیند نصب ممکن است مقداری طول بکشد لطفا صبور باشید</center></b><br><br>
+<center><b>.متوجه میشویم نصب با موفیت پایان یافته است Install successful با دریافت پیام
+</center></b><br><br>
+<center><img src="image (8).png" wedight=200 height=300></center><br><br><br>
+<center><font size="+2"><font color="red"><b><a href="SQL.html">برای بازگشت به صفحه قبل کلیک کنید</b></center><br><br></a>
+
+ </body>
+
+  </html>
